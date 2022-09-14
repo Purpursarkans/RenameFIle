@@ -36,6 +36,6 @@ void renamefile()
 int main()
 {
     renamefile();
-    Sleep(100);
+    
     return 0;
 }
